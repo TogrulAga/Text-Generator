@@ -1,0 +1,8 @@
+content:
+- Regexp sets and ranges
+- Comments
+- Shorthands
+- Regexp quantifiers
+- Tokenization
+- Slicing
+- Defaultdict and Counter
